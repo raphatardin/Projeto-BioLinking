@@ -29,7 +29,7 @@ function toggleMode() {
   } else {
     img.setAttribute(
       "alt",
-      "Foto de Raphael Tardin segurando seus dois cachorros da raça pug no colo e um lago com árvores ao fundo"
+      "Foto de Raphael Tardin segurando seus dois cachorros da raça pug no colo e um lago com árvores ao fundo!"
     )
   }
 }
